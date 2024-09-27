@@ -1,0 +1,28 @@
+DeLib - Descentralized Library
+
+Missão: A DAO DeLib tem como missão permitir um acesso universal e democrático a livros e conhecimento por meio 
+da disponibilização gratuita de um vasto acervo de livros digitais baseado em Blockchain e nos padrões Web3.
+
+Entrega: livros digitais sobre as mais diversas áreas do conhecimento.
+
+Token de Governança: LIB. Com o token LIB, o usuário terá acesso a essa vasta biblioteca de livros, o poder de 
+sugerir um livro ao acervo, votar nos livros que serão incluídos e demais decisões acerca da biblioteca. Dessa 
+forma, as decisões serão executadas por meio de contratos inteligentes, garantindo a sua imutabilidade e 
+transparência.
+
+Tesouraria: a administração financeira se dará de forma democrática. Entretanto, prezará-se pela diversificação
+de ativos e investimentos em stablecoins. Além disso, haverá a monetização de anúncios sugeridos ao usuário na 
+plataforma. Dessa forma, a captação de recurso ocorrerá por esse meio.
+
+Fóruns: um diferencial da DeLib será a possibilidade de criação de fóruns por usuários em que poderão participar
+de discussões sobre os livros ou áreas do conhecimento de sua preferência.
+
+Ferramentas:
+- Weezi
+- Hedgy
+- Dework.xyz
+- Snapshot
+
+
+
+
